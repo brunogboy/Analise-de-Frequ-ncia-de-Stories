@@ -1,6 +1,6 @@
 # Analise-de-Frequ-ncia-de-Stories
 
-## Análise de frequência de Stories Análise de frequência de Stories
+## Análise de frequência de Stories
 
 O Gráfico foi criado coletando dados manualmente diretamente do Meta da conta. 
 Eu peguei os dados já arquivados do dia 09/06 até o dia 15/06 (1 semana). 
